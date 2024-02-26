@@ -28,7 +28,6 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/> <img width="15" />
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/> <img width="15" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
-<img src="https://camo.githubusercontent.com/3913c59c7057f9c9a7f79d63c9753930e69790c8f90fbb375a78686e96165d29/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f76697375616c73747564696f636f64652e737667" height="40" /> <img width="15"/>
 </p>
 
 <h3 align="left">🔥   My Stats :</h3>
