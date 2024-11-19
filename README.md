@@ -8,7 +8,11 @@
 - 💬 Ask me about **AWS Cloud, Ansible, Docker, Kubernetes, Jenkins, Git & Azure DevOps.**
 - 📝 I regularly write articles on [Mihir.kulkarni Blogs](https://hashnode.com/@Mihir11)
 
-
+<div>
+<h3 align="left">Certifications:</h3>
+<a herf="https://www.credly.com/badges/0526a5e0-257e-4fb3-bada-1bb0c7e74560/public_url" target="_blank"><img src="https://images.credly.com/size/150x150/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" target="_blank"></a> 
+<a herf="https://www.credly.com/badges/71eba3f2-5429-4281-abf7-93320dafec78/public_url" target="_blank"><img src="https://images.credly.com/size/150x150/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" target="_blank"></a> 
+</div>
 <div> <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/mihir-kulkarni-203b16194" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <img width="15" />
 <a href="https://github.com/Mihir11Kulkarni" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> <img width="15" />
