@@ -12,6 +12,7 @@
 <h3 align="left">Certifications:</h3>
 <a herf="https://www.credly.com/badges/0526a5e0-257e-4fb3-bada-1bb0c7e74560/public_url" target="_blank"><img src="https://images.credly.com/size/150x150/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" target="_blank"></a> 
 <a herf="https://www.credly.com/badges/71eba3f2-5429-4281-abf7-93320dafec78/public_url" target="_blank"><img src="https://images.credly.com/size/150x150/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" target="_blank"></a>
+<a herf="https://www.credly.com/badges/e4ae1e6b-1e75-494d-8b0a-bc05ec7fa7f0/public_url" target="_blank"><img src="https://images.credly.com/size/220x220/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png" target="_blank"></a>
 <a herf="https://www.credly.com/badges/4e60d220-e4fe-45de-a0a0-a433f3250df4/public_url" target="_blank"><img src="https://images.credly.com/size/150x150/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" target="_blank"></a>
 </div>
 <div> <h3 align="left">Connect with me:</h3>
