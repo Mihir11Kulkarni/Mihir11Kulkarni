@@ -3,9 +3,9 @@
 <h3 align="center">DevOps Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mihir11Kulkari&label=Profile%20views&color=0e75b6&style=flat" alt="Mihir11Kulkarni" /> </p>
 
-- 🔭 I’m working as Technical Trainee Consultant @ **Canarys Automation Ltd.**
-- 📚 I'm currently learning **M.S Azure DevOps**
-- 💬 Ask me about **AWS Cloud, Ansible, Docker, Kubernetes, Jenkins, Git & Azure DevOps.**
+- 🔭 I’m working as Devops Consultant @ **Canarys Automation Ltd.**
+- 📚 I'm currently Working on **Github**
+- 💬 Ask me about **AWS Cloud, Ansible, Terraform, Docker, Kubernetes, Jenkins, Git, Github, & Azure DevOps.**
 - 📝 I regularly write articles on [Mihir.kulkarni Blogs](https://hashnode.com/@Mihir11)
 
 <div>
