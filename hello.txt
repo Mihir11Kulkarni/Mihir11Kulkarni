@@ -1,0 +1,9 @@
+Agenda:
+Introduction to Git
+Demonstration on GitHub Developer workflow.
+Clone the repo with your choice of IDE.
+Integration with IDEs such as Eclipse, Android Studio, Visual Studio, IntelliJ, etc
+Walkthrough about Branch policies.
+Associate your work with commits.
+Walkthrough about Branch policies.
+Review code with pull requests
