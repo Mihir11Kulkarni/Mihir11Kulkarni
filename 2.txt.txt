@@ -1,1 +1,8 @@
 Commands for all the Developer workflow
+
+these commands are for adding file/s to staging area in local git repo
+
+git init
+git add 
+git commit -m ""
+git push -u origin main, git remote set-url origin https://github.com/bb-test-project1/Demo-repo-DWF.git
